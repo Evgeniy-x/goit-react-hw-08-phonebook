@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.681b57f1.js",
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.52a1164c.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.bc790ff0.js",
+    "static/js/178.a89eee43.chunk.js": "/goit-react-hw-08-phonebook/static/js/178.a89eee43.chunk.js",
+    "static/js/250.d1a4443e.chunk.js": "/goit-react-hw-08-phonebook/static/js/250.d1a4443e.chunk.js",
+    "static/css/628.5ce8b873.chunk.css": "/goit-react-hw-08-phonebook/static/css/628.5ce8b873.chunk.css",
+    "static/js/628.8a867288.chunk.js": "/goit-react-hw-08-phonebook/static/js/628.8a867288.chunk.js",
+    "static/js/60.3c67778d.chunk.js": "/goit-react-hw-08-phonebook/static/js/60.3c67778d.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.681b57f1.js.map": "/goit-react-hw-08-phonebook/static/js/main.681b57f1.js.map"
+    "static/media/plus.svg": "/goit-react-hw-08-phonebook/static/media/plus.d99a6ffd71de3d23afe9ec2245f2d19a.svg",
+    "main.52a1164c.css.map": "/goit-react-hw-08-phonebook/static/css/main.52a1164c.css.map",
+    "main.bc790ff0.js.map": "/goit-react-hw-08-phonebook/static/js/main.bc790ff0.js.map",
+    "178.a89eee43.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/178.a89eee43.chunk.js.map",
+    "250.d1a4443e.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/250.d1a4443e.chunk.js.map",
+    "628.5ce8b873.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/628.5ce8b873.chunk.css.map",
+    "628.8a867288.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/628.8a867288.chunk.js.map",
+    "60.3c67778d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/60.3c67778d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.681b57f1.js"
+    "static/css/main.52a1164c.css",
+    "static/js/main.bc790ff0.js"
   ]
 }
