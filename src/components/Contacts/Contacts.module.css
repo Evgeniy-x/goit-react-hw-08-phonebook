@@ -12,9 +12,9 @@
 
 .item {
   display: flex;
-  justify-content: space-evenly;
-  padding: 5px;
-  background-color: rgb(190, 196, 17);
+  justify-content: space-between;
+  padding: 5px 20px 5px 15px;
+  background-color: #0ff5ed;
   border-radius: 10px;
   align-items: center;
 }

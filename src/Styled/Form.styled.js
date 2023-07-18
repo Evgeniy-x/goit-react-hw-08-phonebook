@@ -28,7 +28,7 @@ const Input = styled.input`
   max-width: 100%;
   box-sizing: border-box;
   border-radius: 10px;
-  border: 1px solid #ff445c;
+  border: 1px solid #2635ff;
 `;
 
 const ShowPasswordButton = styled.button`
@@ -46,8 +46,8 @@ const ShowPasswordButton = styled.button`
 const Button = styled.button`
   display: block;
   border-radius: 20px;
-  border: 1px solid #ff4b2b;
-  background: #ff445c;
+  border: 1px solid #030c87;
+  background: #2635ff;
   color: #fff;
   font-size: 12px;
   font-weight: bold;
