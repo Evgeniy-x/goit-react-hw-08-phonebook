@@ -5,7 +5,9 @@ const Layout = () => {
   return (
     <div style={{ maxWidth: 1000, margin: '0 auto', padding: '0 16px' }}>
       <AppBar />
-      <Outlet />
+      <main style={{ textAlign: 'center' }}>
+        <Outlet />
+      </main>
     </div>
   );
 };
